@@ -1,9 +1,9 @@
 const CONFIG = {
     introTitle: 'Bạn gì đó à!',
-    introDesc: `Trái tim 300g của bạn chứa ai chưa? hay là chứ Hải đi`,
+    introDesc: `Trái tim 300g của bạn chứa ai chưa? hay là chứa Hải đi`,
     btnIntro: 'hihi',
     title: 'Ôi Hải quên mất tên bạn rồi, Hải gọi bạn là người yêu nhé... 😙',
-    desc: 'làm ny tôi nhé...hihi ',
+    desc: '<3 ',
     btnYes: 'Yêu Hải <33',
     btnNo: 'ảo tưởng à :3',
     question:'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu Hải <3',
